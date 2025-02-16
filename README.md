@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Silly_Dante
+- 👋 Hi, I’m Dante! 
 - 👀 I’m interested in learning how to code and hope to specialize in web development.
 - 🌱 I’m currently learning the "Foundations" section of TOP.
 - 💞️ I’m looking to collaborate on GitHub repositories in the future!
